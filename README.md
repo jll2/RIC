@@ -33,10 +33,11 @@ versions and/or hardware that you are using.
 The special functions provided by these scripts are used in the
 following papers:
 
-    "Decay of radiation–induced–conductivity analyzed as a problem in
-    one–dimensional ion diffusion," by John L Lawless, Radiation Measurements
-    (2026):107733.  https://doi.org/10.1016/j.radmeas.2026.107733
+1.  "Decay of radiation–induced–conductivity analyzed as a problem in
+one–dimensional ion diffusion," by John L Lawless, Radiation
+Measurements (2026):107733.
+https://doi.org/10.1016/j.radmeas.2026.107733
 
-    "An explanation for why measurements of alkali ion mobility in quartz have
-    been so inconsistent," by John L Lawless, in preparation (2026)
+1.  "An explanation for why measurements of alkali ion mobility in quartz have
+been so inconsistent," by John L Lawless, in preparation (2026)
 
